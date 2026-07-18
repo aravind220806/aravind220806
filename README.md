@@ -1,27 +1,158 @@
-# 💫 About Me:
-# Hi there, I'm Aravind! 👋<br>### 🛡️ Aspiring Network Engineer & Cybersecurity Researcher<br><br>I am a **B.E. Computer Science** student specializing in **Cyber Security**, currently building AI-driven security tools and exploring the depths of Linux systems.<br><br>- 🔭 **I’m currently working on:** An **AI Agent for Cybersecurity** that automates penetration testing tools on Linux/Windows.<br>- 🎓 **I’m preparing for:** Internships in Network Engineering and Software Development.<br>- 🐧 **Daily Drive:** CachyOS / Garuda Linux (Arch-based).<br>- 🚩 **CTF Team:** Member of **Rock You**.<br><br>### 🛠️ Technical Arsenal<br>| Category | Tools & Languages |<br>|----------|-------------------|<br>| **Languages** | C, C++, Java, Python (Scikit-Learn) |<br>| **Networking** | Wireshark, Nmap, TCP/IP Analysis |<br>| **Security Ops** | Kali Linux, Parrot OS, Burp Suite |<br>| **Systems** | Arch Linux, Memory Management Algorithms |<br><br>### 🚀 Featured Projects<br>**[Memory Allocation Simulator]**<br>A simulation of OS memory management algorithms (Best Fit, First Fit) written in Java.<br><br>**[OS Task Scheduler]**<br>A custom implementation of a task scheduler with multi-level feedback queues.<br><br>[Get in Touch](mailto: aravindvijeshkumar183@gmail.com)<br>
+\#
 
+::: {align="center"}
+👋 Hi, I'm **Aravind V**
+:::
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aravind-v2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aravindvijeshkumar183@gmail.com) 
+::: {align="center"}
+### 🛡️ Network Engineering Enthusiast • Cybersecurity Researcher • Linux Enthusiast
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aravind220806&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aravind220806&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aravind220806&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**GitHub:** **[@aravind220806](https://github.com/aravind220806)**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aravind220806&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+*"Building secure systems, exploring Linux, and creating AI-powered
+cybersecurity solutions."*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=B.E.+Computer+Science+(Cyber+Security);Arch+Linux+Enthusiast;AI+Security+Developer;Lemon+OS+Creator;CTF+Player;Future+Network+Engineer" />`{=html}
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aravind220806&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://komarev.com/ghpvc/?username=aravind220806&label=Profile%20Views&style=for-the-badge)
+:::
 
----
-[![](https://visitcount.itsvg.in/api?id=aravind220806&icon=0&color=0)](https://visitcount.itsvg.in)
+------------------------------------------------------------------------
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+Hi! I'm **Aravind V**, a B.E. Computer Science (Cyber Security) student
+from India passionate about Linux, networking, operating systems, AI,
+and cybersecurity.
+
+I love building practical projects that combine **Artificial
+Intelligence**, **Cybersecurity**, and **Linux**.
+
+## 🚀 Currently Working On
+
+### 🍋 Lemon OS
+
+A modern **Arch Linux-based distribution** focused on performance,
+simplicity, security, and developer productivity.
+
+**Features** - ⚡ Lightweight & Fast - 🐧 Arch Linux Base - 🔒 Security
+Focused - 💻 Developer Ready - 🛡 Cybersecurity Ready - 🎨 Custom
+Branding & Themes
+
+------------------------------------------------------------------------
+
+### 🤖 AI Agent for Cybersecurity
+
+An AI-powered cybersecurity assistant designed to automate
+reconnaissance, vulnerability assessment, report generation, and
+penetration testing workflows across Linux and Windows.
+
+------------------------------------------------------------------------
+
+# 🎯 Career Goals
+
+-   🛡 Network Engineer
+-   🔐 Cybersecurity Researcher
+-   🤖 AI Security Engineer
+-   💻 Software Developer
+-   🐧 Linux Distribution Developer
+
+------------------------------------------------------------------------
+
+# 🐧 Linux Journey
+
+Windows → Ubuntu → Kali Linux → Arch Linux → Garuda Linux → CachyOS ❤️
+
+------------------------------------------------------------------------
+
+# 🚩 CTF
+
+**Team:** Rock You
+
+Interested in: - Web Security - Reverse Engineering - Binary
+Exploitation - Cryptography - Linux Privilege Escalation - Network
+Security
+
+------------------------------------------------------------------------
+
+# 🛠 Technical Arsenal
+
+  Category        Skills
+  --------------- ---------------------------------------
+  Languages       C, C++, Java, Python, JavaScript, PHP
+  Web             HTML, CSS, Django, Node.js
+  Networking      Cisco, TCP/IP, Wireshark, Nmap
+  Cybersecurity   Kali, Parrot, Burp Suite, Metasploit
+  Databases       MySQL, MariaDB, MongoDB
+  DevOps          Git, GitHub, GitLab, Apache, Nginx
+  Linux           Arch Linux, CachyOS, Garuda Linux
+
+------------------------------------------------------------------------
+
+# 🚀 Featured Projects
+
+## 🍋 Lemon OS
+
+Custom Arch Linux distribution focused on speed, security, and modern
+UI.
+
+## 🤖 AI Agent for Cybersecurity
+
+AI-driven security automation platform.
+
+## 🧠 Memory Allocation Simulator
+
+Java simulation of Best Fit, First Fit, Worst Fit and Next Fit
+algorithms.
+
+## ⚙ OS Task Scheduler
+
+Java implementation of FCFS, Round Robin, Priority, and MLFQ scheduling.
+
+------------------------------------------------------------------------
+
+# 💻 Tech Stack
+
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,html,css,django,nodejs,mysql,mongodb,git,github,gitlab,linux,bash,vscode&perline=9"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# 📈 GitHub Stats
+
+``` md
+Replace these placeholders after uploading:
+
+https://github-readme-stats.vercel.app/api?username=aravind220806
+https://github-readme-stats.vercel.app/api/top-langs/?username=aravind220806
+https://github-readme-streak-stats.herokuapp.com/?user=aravind220806
+https://github-profile-trophy.vercel.app/?username=aravind220806
+https://github-readme-activity-graph.vercel.app/graph?username=aravind220806
+```
+
+------------------------------------------------------------------------
+
+# 🌐 Connect With Me
+
+-   📧 Email: **aravindvijeshkumar183@gmail.com**
+-   🐙 GitHub: https://github.com/aravind220806
+-   💼 LinkedIn: *https://www.linkedin.com/in/aravind-v2006/*
+
+------------------------------------------------------------------------
+
+# ❤️ Support
+
+If you enjoy my work, consider ⭐ starring my repositories.
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+## 🍋 "Secure • Learn • Build • Repeat"
+
+**Thanks for visiting my profile!**
+:::
