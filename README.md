@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00FF88&height=220&section=header&text=Aravind%20V&fontSize=60&fontColor=00FF88&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20%7C%20Linux%20Enthusiast%20%7C%20AI%20Security%20Developer&descAlignY=58&descAlign=50"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=B.E.+Computer+Science+(Cyber+Security);Arch+Linux+Enthusiast;AI+Security+Developer;Lemon+OS+Creator;CTF+Player;Future+Network+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=B.E.+Computer+Science+(Cyber+Security);Arch+Linux+Enthusiast;AI+Security+Developer;Veldora+OS+Creator;CTF+Player;Future+Network+Engineer" alt="Typing SVG" />
 
 <a href="https://github.com/aravind220806">
   <img src="https://komarev.com/ghpvc/?username=aravind220806&label=Profile%20Views&color=00FF88&style=for-the-badge" />
@@ -27,7 +27,7 @@ projects that combine **Artificial Intelligence**, **Cybersecurity**, and **Linu
 ```yaml
 whoami: aravind220806
 focus: [Cybersecurity, Linux Internals, AI Security, CTF]
-currently_building: Lemon OS 🍋
+currently_building: Veldora OS 🐉
 mindset: "Secure • Learn • Build • Repeat"
 ```
 
@@ -39,7 +39,7 @@ mindset: "Secure • Learn • Build • Repeat"
 <tr>
 <td width="50%" valign="top">
 
-### 🍋 Lemon OS
+### 🐉 Veldora OS
 
 A modern **Arch Linux–based distribution** focused on performance, simplicity, security, and
 developer productivity.
@@ -200,7 +200,7 @@ If you enjoy my work, consider ⭐ starring my repositories — it genuinely hel
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:0F2027&height=150&section=footer"/>
 
-**🍋 "Secure • Learn • Build • Repeat"**
+**🐉 "Secure • Learn • Build • Repeat"**
 
 **Thanks for visiting my profile!**
 
